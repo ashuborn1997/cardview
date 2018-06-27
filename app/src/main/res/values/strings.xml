@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InterviewApp</string>
+    <string name="ur_name">ur name</string>
+    <string name="password">Password</string>
+    <string name="not_registered_sign_up">Not Registered.Sign Up</string>
+    <string name="let_s_begin">Let\'s begin</string>
+</resources>
